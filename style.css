@@ -1,0 +1,16 @@
+body{
+    background: url(https://images.all-free-download.com/images/graphiclarge/blue_shopping_cart_icon_vector_280786.jpg) no-repeat center center fixed;
+    /* background-size:cover; */
+}
+input{
+    padding : 8px;
+    margin: 20px;
+    width: 200px;
+}
+button{
+    background-color:greenyellow;
+    transition: all 0.5s ease-in-out;
+}
+button:hover{
+    transform: scale(1.1);
+}
